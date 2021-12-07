@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ibf2021.d1</groupId>
-  <artifactId>shoppingcart</artifactId>
+  <artifactId>shopping</artifactId>
   <version>0.1</version>
 
-  <name>shoppingcart</name>
+  <name>shopping</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
